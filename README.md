@@ -1,2 +1,6 @@
 # pw-controle-de-gastos
-Projeto criado no curso gratuito "Elas Codam" uma parceria da Kenzie Academy + Dupla Tech.
+_Projeto criado no curso gratuito "Elas Codam" 🚀✨ uma parceria da Kenzie Academy ➕ Dupla Tech._
+<br/>
+Um site criado em HTML, CSS e JS. 
+
+
